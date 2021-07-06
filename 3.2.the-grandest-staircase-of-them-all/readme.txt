@@ -1,8 +1,3 @@
-the-grandest-staircase-of-them-all
-journal.txt
-start_here.txt
-foobar:~/ adib.bin-ali.external$ cd the-grandest-staircase-of-them-all/
-foobar:~/the-grandest-staircase-of-them-all adib.bin-ali.external$ cat readme.txt 
 The Grandest Staircase Of Them All
 ==================================
 
